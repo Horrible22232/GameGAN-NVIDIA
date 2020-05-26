@@ -6,4 +6,4 @@ Gonna reimplement GameGAN
 
 https://cdn.arstechnica.net/wp-content/uploads/2020/05/Nvidia_GameGAN_Research.pdf
 
-# stay tuned
+# Stay Tuned
